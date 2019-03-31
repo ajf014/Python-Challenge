@@ -3,6 +3,8 @@
 I was unable to complete this challenge.  
 After working on this myself, with my classmates, with a TA, and asking an IT friend, I was only able to write the below code.
 Having multiple inputs from multiple people led to me getting lost in my own code and not knowing what anything meant.
+I deleted a significant portion of what I had written in order to try and start from scratch, but by that time it was too late.
+
 Written at midnight 3/31/2019
 ____________________________  
   
